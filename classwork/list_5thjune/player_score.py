@@ -9,3 +9,4 @@ print("\n---- Player Scores -----")
 print ("score of 11 players: ", player_score)
 #finding the highest score
 highest_score = max(player_score)
+print("The highest score is: ", highest_score)
