@@ -1,7 +1,7 @@
-# vidyarthiyon ke marks ki list
+# student k marks ke marks ki list jo dii gyii h 
 marks = [78, 45, 92, 35, 88, 40, 99, 56]
 
-# paas hone wale vidyarthiyon ke marks rakhne ke liye khaali list
+# paas hone wale student ke marks rakhne ke liye khaali list bnaye
 passed_students = []
 
 # fail students ki ginti rakhne ke liye variable
